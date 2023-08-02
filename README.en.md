@@ -23,7 +23,7 @@ Bot telegram token: **TELEBOT_TOKEN**=TOKEN\
 stripe token: **PAYMENT_TOKEN**=TOKEN
 - to activate test payments, you need to use [BotFather](https://t.me/BotFather):
    1. Choose a bot
-   2.Payments
+   2. Payments
    3. Stripe
    4. Connect Strip test
 - run the project:
